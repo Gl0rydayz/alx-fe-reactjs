@@ -6,6 +6,9 @@ function MainContent() {
       <p>
         Welcome to the list of my favorite cities! Here, you will find a curated list of places I love to visit.
       </p>
+      <p style={{ fontWeight: 'bold', color: 'darkblue' }}>
+        I love to visit New York, Paris, and Tokyo.
+      </p>
     </main>
   );
 }
